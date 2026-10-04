@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\s25380174\Desktop\zz\project\src\main.cpp">
+    <ClCompile Include="C:\Users\user\Desktop\Новая папка\project\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\s25380174\Desktop\zz\project\src\tit.hpp">
+    <ClInclude Include="C:\Users\user\Desktop\Новая папка\project\src\tit.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\s25380174\Desktop\zz\project\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\user\Desktop\Новая папка\project\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{76017F6C-AFD7-3B7A-8086-C45184634674}</UniqueIdentifier>
+      <UniqueIdentifier>{8F284762-4C77-3119-A2AF-117BE2F056F8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{40DBF814-3B8E-3447-8894-1C591370BEB3}</UniqueIdentifier>
+      <UniqueIdentifier>{0202CA8F-646A-3DC9-8AD0-BF83F0FCB132}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

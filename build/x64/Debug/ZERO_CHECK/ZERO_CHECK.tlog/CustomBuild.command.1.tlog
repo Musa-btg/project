@@ -1,6 +1,6 @@
-^C:\USERS\S25380174\DESKTOP\ZZ\PROJECT\BUILD\CMAKEFILES\D163097B41E22ACCEE19522BC822883F\GENERATE.STAMP.RULE
+^C:\USERS\USER\DESKTOP\НОВАЯ ПАПКА\PROJECT\BUILD\CMAKEFILES\7103A80AA17B2337BCE293CA3D0C01AB\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/s25380174/Desktop/zz/project -BC:/Users/s25380174/Desktop/zz/project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/s25380174/Desktop/zz/project/build/project.slnx
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/user/Desktop/Новая папка/project" "-BC:/Users/user/Desktop/Новая папка/project/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/user/Desktop/Новая папка/project/build/project.sln"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
